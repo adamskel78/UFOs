@@ -1,1 +1,4 @@
 # UFOs
+## Challenge
+
+This project was created to learn how to use java script to create a dynamic table and webpage. This webpage will now filter through thousands of UFO events gathered from a database to give you information about UFO sightings. Now you can filter by date, city, state, country, or shape. It highlights some of the incredible power of java script when powered by libriaries like D3. D3 allows this website to become incredible powerful and ituative. Some areas of further development would be to add one more filter to filter by the duration of the encounter. I would also reccomend some code on the app.js file to force the input into a lowercase format to help improve the user experiance. It was a very challengeing project and with the help of this courese and the teaching staff I was able to complete it. 
